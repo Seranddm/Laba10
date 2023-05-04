@@ -1,0 +1,81 @@
+Index: .idea/.gitignore
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+deleted file mode 100644
+--- a/.idea/.gitignore	(revision 5ac72e4a8c3501c46b0becb8682e031d1636445a)
++++ /dev/null	(revision 5ac72e4a8c3501c46b0becb8682e031d1636445a)
+@@ -1,8 +0,0 @@
+-# Default ignored files
+-/shelf/
+-/workspace.xml
+-# Editor-based HTTP Client requests
+-/httpRequests/
+-# Datasource local storage ignored files
+-/dataSources/
+-/dataSources.local.xml
+Index: .idea/modules.xml
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+deleted file mode 100644
+--- a/.idea/modules.xml	(revision 5ac72e4a8c3501c46b0becb8682e031d1636445a)
++++ /dev/null	(revision 5ac72e4a8c3501c46b0becb8682e031d1636445a)
+@@ -1,8 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectModuleManager">
+-    <modules>
+-      <module fileurl="file://$PROJECT_DIR$/.idea/Laba10.iml" filepath="$PROJECT_DIR$/.idea/Laba10.iml" />
+-    </modules>
+-  </component>
+-</project>
+\ No newline at end of file
+Index: .idea/Laba10.iml
+===================================================================
+diff --git a/.idea/Laba10.iml b/.idea/Laba10.iml
+deleted file mode 100644
+--- a/.idea/Laba10.iml	(revision 5ac72e4a8c3501c46b0becb8682e031d1636445a)
++++ /dev/null	(revision 5ac72e4a8c3501c46b0becb8682e031d1636445a)
+@@ -1,30 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="FacetManager">
+-    <facet type="django" name="Django">
+-      <configuration>
+-        <option name="rootFolder" value="$MODULE_DIR$" />
+-        <option name="settingsModule" value="Laba10/settings.py" />
+-        <option name="manageScript" value="$MODULE_DIR$/manage.py" />
+-        <option name="environment" value="&lt;map/&gt;" />
+-        <option name="doNotUseTestRunner" value="false" />
+-        <option name="trackFilePattern" value="migrations" />
+-      </configuration>
+-    </facet>
+-  </component>
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$">
+-      <excludeFolder url="file://$MODULE_DIR$/venv" />
+-    </content>
+-    <orderEntry type="inheritedJdk" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
+-  <component name="TemplatesService">
+-    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+-    <option name="TEMPLATE_FOLDERS">
+-      <list>
+-        <option value="$MODULE_DIR$/../Laba10\templates" />
+-      </list>
+-    </option>
+-  </component>
+-</module>
+\ No newline at end of file
+Index: .idea/misc.xml
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+deleted file mode 100644
+--- a/.idea/misc.xml	(revision 5ac72e4a8c3501c46b0becb8682e031d1636445a)
++++ /dev/null	(revision 5ac72e4a8c3501c46b0becb8682e031d1636445a)
+@@ -1,4 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (Laba10) (2)" project-jdk-type="Python SDK" />
+-</project>
+\ No newline at end of file
